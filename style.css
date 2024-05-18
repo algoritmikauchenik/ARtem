@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color:red ;   
+}
+h2 {
+    color:blue;   
+}
+ol { 
+    color:black;
+     background-image: linear-gradient(red, blue);
+}
+body {
+    font-family: sans-serif;
+}
+h1 {
+    background-image: linear-gradient(red, navy);
+    color:white ;
+}
+a {
+    color: gold;
+}
+footer {
+  background-image: linear-gradient(white, red);  
+}
+header {
+   background-image: linear-gradient(red, blue);
+   color:white; 
+}
+
+
